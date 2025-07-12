@@ -1,0 +1,134 @@
+/*!
+* Mondrian Tokens Claro 2.4.2
+* Build do dia 23/02/2024 as 15:12:19 GTM-0300 
+*
+* https://mondrian.claro.com.br
+* Copyright (c) 2019 - 2022 Claro <designopsoficial@globalhitss.com.br>
+* Todos os direitos reservados.
+*
+* A redistribuicao ou alteracao sem a permissao dos proprietarios do software e proibida.
+*/
+
+:root {
+  --border-style-default: "solid";
+  --border-width-none: 0;
+  --border-width-thin: 1px;
+  --border-width-medium: 2px;
+  --border-width-thick: 4px;
+  --border-radius-none: 0;
+  --border-radius-xxs: 4px;
+  --border-radius-xs: 12px;
+  --border-radius-sm: 12px;
+  --border-radius-md: 24px;
+  --border-radius-lg: 32px;
+  --border-radius-pill: 500px;
+  --border-radius-circle: 50%;
+  --color-brand-primary-darkest: #83170F;
+  --color-brand-primary-dark: #B41E13;
+  --color-brand-primary-medium: #DA291C;
+  --color-brand-primary-light: #FC867F;
+  --color-brand-primary-lightest: #FFE3E3;
+  --color-brand-secondary-medium: #00818f;
+  --color-brand-secondary-darkest: #005c66;
+  --color-support-success-light: #DDF9ED;
+  --color-support-success-dark: #006B4F;
+  --color-support-danger-light: #FFFAAD;
+  --color-support-danger-dark: #B84D01;
+  --color-support-highlight-darkest: #B84D01;
+  --color-support-highlight-dark: #FB9C2D;
+  --color-support-highlight-lightest: #FFFAAD;
+  --color-support-highlight-light: #FFE458;
+  --color-support-highlight-medium: #FFC722;
+  --color-neutral-lightest: #FFFFFF;
+  --color-neutral-light: #F8F8F8;
+  --color-neutral-medium: #DBDBDB;
+  --color-neutral-dark: #525252;
+  --color-neutral-darkest: #1F1D1D;
+  --opacity-semi-opaque: 0.8;
+  --opacity-intense: 0.64;
+  --opacity-medium: 0.32;
+  --opacity-light: 0.16;
+  --opacity-semi-transparent: 0.08;
+  --shadow-offset-x-none: 0px;
+  --shadow-offset-y-none: 0px;
+  --shadow-offset-y-level-1: 4px;
+  --shadow-offset-y-level-2: 4px;
+  --shadow-offset-y-level-3: 16px;
+  --shadow-offset-y-level-4: 16px;
+  --shadow-blur-radius-level-1: 8px;
+  --shadow-blur-radius-level-2: 8px;
+  --shadow-blur-radius-level-3: 24px;
+  --shadow-blur-radius-level-4: 24px;
+  --shadow-spread-radius-default: -4;
+  --shadow-spread-radius-light: -16;
+  --spacing-inline-xxxs: 4px;
+  --spacing-inline-xxs: 8px;
+  --spacing-inline-xs: 16px;
+  --spacing-inline-sm: 24px;
+  --spacing-inline-md: 32px;
+  --spacing-inline-lg: 48px;
+  --spacing-inline-xl: 64px;
+  --spacing-inset-xxs: 4px;
+  --spacing-inset-xs: 8px;
+  --spacing-inset-sm: 16px;
+  --spacing-inset-md: 24px;
+  --spacing-inset-lg: 32px;
+  --spacing-inset-xl: 48px;
+  --spacing-squish-xxxs: 4px 8px;
+  --spacing-squish-xxs: 4px 16px;
+  --spacing-squish-xs: 8px 16px;
+  --spacing-squish-sm: 8px 24px;
+  --spacing-squish-md: 16px 24px;
+  --spacing-squish-lg: 16px 32px;
+  --spacing-squish-xl: 24px 32px;
+  --spacing-squish-xxl: 32px 48px;
+  --spacing-stack-xxxs: 4px;
+  --spacing-stack-xxs: 8px;
+  --spacing-stack-xs: 16px;
+  --spacing-stack-sm: 24px;
+  --spacing-stack-md: 32px;
+  --spacing-stack-lg: 48px;
+  --spacing-stack-xl: 64px;
+  --spacing-stack-xxl: 96px;
+  --spacing-stack-xxxl: 128px;
+  --font-family-highlight: "AMX";
+  --font-family-base: "Roboto";
+  --font-family-code: "monospace";
+  --font-line-height-none: 0;
+  --font-line-height-xxxs: 100%;
+  --font-line-height-xxs: 130%;
+  --font-line-height-xs: 130%;
+  --font-line-height-sm: 130%;
+  --font-line-height-md: 130%;
+  --font-line-height-lg: 130%;
+  --font-line-height-xl: 130%;
+  --font-line-height-xxl: 140%;
+  --font-size-xxxs: 12px;
+  --font-size-xxs: 16px;
+  --font-size-xs: 20px;
+  --font-size-sm: 24px;
+  --font-size-md: 28px;
+  --font-size-lg: 32px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 48px;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-black: 800;
+  --text-underline: underline;
+  --text-strike: line-through;
+  --text-uppercase: uppercase;
+  --optical-adjusts-xs: -1;
+  --optical-adjusts-sm: -2;
+  --screen-size-xxxs: 360px;
+  --screen-size-xxs: 480px;
+  --screen-size-xs: 540px;
+  --screen-size-sm: 640px;
+  --screen-size-md: 768px;
+  --screen-size-lg: 992px;
+  --screen-size-xl: 1024px;
+  --screen-size-xxl: 1200px;
+  --screen-size-xxxl: 1440px;
+  --screen-size-ul: 1920px;
+}
